@@ -14,6 +14,7 @@ Shelly Script Language uses Espruino, a lightweight JavaScript environment that 
 
 Below are the examples from my blog posts (always linked). You can find the corresponding posts with videos and all explanations (in German) at https://draeger-it.blog.
 
+ - [# Shelly Scripting #5: Intelligente Relaissteuerung bei Netzwerkausfall](https://draeger-it.blog/shelly-scripting-5-intelligente-relaissteuerung-bei-netzwerkausfall/)
  - [# Shelly Scripting #4: Tageslichtabhängige Automatisierung leicht gemacht](https://draeger-it.blog/shelly-scripting-4-tageslichtabhaengige-automatisierung-leicht-gemacht/)
  - [# Shelly Scripting #3: Stromverbrauch und Sensordaten in der Cloud visualisieren](https://draeger-it.blog/shelly-scripting-3-stromverbrauch-und-sensordaten-in-der-cloud-visualisieren/)
  - [# Shelly Scripting #2: Sensordaten in der Cloud speichern und abrufen](https://draeger-it.blog/shelly-scripting-2-sensordaten-in-der-cloud-speichern-und-abrufen/)
